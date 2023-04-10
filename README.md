@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Tobin</h1>
 <h3 align="center">A student from Malaysia</h3>
 
+- 🔭 I’m currently working on **creating games**
+
+- 🌱 I’m currently learning **the Harvard CS50 course**
+
+- 📫 How to reach me **tobinsia@gmail.com**
+
+- ⚡ Fun fact **I'm a National athlete**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tobin-sia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tobin-sia" height="30" width="40" /></a>
+<a href="https://instagram.com/tobinsia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tobinsia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
