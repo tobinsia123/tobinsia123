@@ -20,6 +20,7 @@
 
 <img alt="github contribution snake animation" src="https://github.com/tobinsia123/tobinsia123/blob/output/github-contribution-grid-snake.svg">
 
+![Snake animation](https://github.com/tobinsia123/tobinsia123/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
