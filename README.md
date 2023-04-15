@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tobinsia@gmail.com**
 
-- ⚡ Fun fact **I'm a National athlete**
+- ⚡ Fun fact **I'm a National athlete** 
 
 
 <h3 align="left">Languages and Tools:</h3>
