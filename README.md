@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tobin</h1>
 <h3 align="center">A student from Malaysia</h3>
 
-- 🔭 I’m currently working on **creating games**
+- 🔭 I’m currently working on creating my own **compiler**
 
-- 🌱 I’m currently learning **the Harvard CS50 course**
+- 🌱 I’m currently learning **-**
 
 - 📫 How to reach me **tobinsia@gmail.com**
 
