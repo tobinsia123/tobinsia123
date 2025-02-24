@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on creating my own **compiler**
 
-- 🌱 I’m currently learning **-**
+- 🌱 I’m currently learning **Solidity**
 
 - 📫 How to reach me **tobinsia@gmail.com**
 
