@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tobin</h1>
-<h3 align="center">A student from Malaysia</h3>
 
 - 🔭 I’m currently working on creating my own **compiler**
 
