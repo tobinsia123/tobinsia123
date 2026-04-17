@@ -17,10 +17,10 @@
 
 I build systems that are meant to run, not just demo.
 
-My work sits at the intersection of identity infrastructure, distributed systems, and applied AI — from securing authentication flows to designing pipelines that handle real data at scale.
+Most of my experiences involve identity infrastructure, distributed systems, and applied AI, from securing authentication flows to designing pipelines that handle real data at scale.
 
 Currently:
-- Building **Anirgi** — a distributed network of on-demand power bank stations
+- Building **Anirgi**: a distributed network of on-demand power bank stations
 - Working on **authentication systems** (OAuth2, JWT, RBAC, secure flows)
 - Running **bioinformatics pipelines** across large genomic datasets
 - Exploring **AI systems with constraints** (structured outputs, validation, execution layers)
